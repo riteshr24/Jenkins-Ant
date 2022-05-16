@@ -2,7 +2,7 @@
 public class SampleDeployClass {  
 
     public static testmethod void t1() {
-        helloMethod_a1();
+        helloMethod_a12();
 
         Account acc = new Account(Name= 'fred');  
         insert acc; // hit the trigger
